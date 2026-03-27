@@ -4,6 +4,9 @@ layout: "home"
 description: "This is the first activity in this tutorial series, and assumes no prior knowledge of OpenRefine. In this activity you will be importing a spreadsheet of data into OpenRefine and exploring it. The goal of this activity is to use a simple dataset to introduce you to the OpenRefine user interface and some of the basic types of tasks you can accomplish. This dataset isn’t particularly “messy,” but provides some of the core knowledge needed to work with messier datasets in later activities."
 permalink: "/"  #! Remove this if not the homepage
 staff:
+ - name: Leanne Trimble
+   link: https://library.utoronto.ca/staff/leanne-trimble
+maintainer:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
 ---
