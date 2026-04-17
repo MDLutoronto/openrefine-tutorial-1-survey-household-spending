@@ -209,5 +209,5 @@ That’s it for our Statistics Canada dataset! You’re now familiar with the Op
 
 **[OpenRefine Tutorial 2: Citizen Science Activity](https://mdl.library.utoronto.ca/technology/tutorials/openrefine-tutorial-2-citizen-science-activity)**
 
-Technique: [Cleaning data](/technique/cleaning-data) \| Tools: [OpenRefine](/tools/openrefine)  
+**Technique:** [Cleaning data](https://mdlutoronto.github.io/tutorials-search/?technique=Cleaning+data) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)  
 **Date Created:** 2019\-03\-25 **Updated:** 2023\-10\-23
